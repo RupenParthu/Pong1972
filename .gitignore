@@ -1,0 +1,68 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# Ignore Unity crash logs
+sysinfo.txt
+
+# Ignore auto-generated VS/VSCode/MSBuild files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# VS Code settings
+.vscode/
+.vscode/*.code-workspace
+
+# ============= #
+# OS Generated  #
+# ============= #
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# ================= #
+# Unity Collaborate #
+# ================= #
+.collab/
+
+# =============== #
+# Builds / Exports #
+# =============== #
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+
+# ============== #
+# Other Settings #
+# ============== #
+
+# Logs
+*.log
+
+# Unity cloud diagnostics
+UnityCloud/
+
+# Ignore backups
+*.bak
+*.backup
+*.old
